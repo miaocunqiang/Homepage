@@ -34,4 +34,14 @@ People’s Republic of China
 ---------------------------------
      
 ### Publications
-- Zhong-Zhi Bai* and Cun-Qiang Miao, On local quadratic convergence of inexact simplified Jacobi-Davidson method for interior eigenpairs of Hermitian eigenproblems, Applied Mathematics Letters, 72(2017), 23-28.
+- Cun-Qiang Miao∗, On Chebyshev-Davidson method for symmetric generalized eigenvalue problems, Journal of Scientific Computing, 85(2020).
+- Cun-Qiang Miao and Wen-Ting Wu∗, On relaxed filtered Krylov subspace method for non-symmetric eigenvalue problems, Journal of Computational and Applied Mathematics, 398(2021).
+- Zhong-Zhi Bai* and Cun-Qiang Miao, Computing eigenpairs of Hermitian matrices in perfect Krylov subspaces, Numerical Algorithms, 82(2019), 1251–1277.
+- Zhong-Zhi Bai* and Cun-Qiang Miao, On local quadratic convergence of inexact simplified Jacobi-Davidson method, Linear Algebra and its Applications, 520(2017), 215-241.
+
+---------------------------------
+
+### Academic Activities
+- October 2019, The Seventh International Conference on Numerical Algebra and Scientific Computing, Contributed Talk, Nanjing, China, October 19-23, 2019.
+- August 2018, The Thirteenth International Conference on Matrix Theory and Applications, Contributed Talk, Harbin, China, August 17-22, 2018.
+- October 2016, The Sixth International Conference on Numerical Algebra and Scientific Computing, Poster Report, Hangzhou, China, October 22-26, 2016.
