@@ -1,6 +1,6 @@
 <h1><p align="center"> Cun-Qiang Miao's homepage </p></h1>
 
-### Dr. Miao, Cun-Qiang(苗存强) <img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" align="right" width='100px' height='125px'/> 
+### Dr. Miao, Cun-Qiang(苗存强) <img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" align="right" width='100px' height='130px'/> 
 
 <b>Lecturer</b> of Computational Mathematics, <br/>
 [School of Mathematics and Statistics](https://math.csu.edu.cn/), <br/>
