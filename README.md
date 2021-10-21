@@ -1,4 +1,4 @@
-# <p align="center"><font size="7"><b> Cun-Qiang Miao' homepage </b></font></p>
+# <div align='center'>Cun-Qiang Miao homepage</div>
 
 
 ### Harry Potter(苗存强) <img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" align="right" width='100px' height='125px'/> 
