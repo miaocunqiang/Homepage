@@ -1,19 +1,3 @@
----
-pageClass: home-page
-# some data for the components
-
-name: Harry Potter
-<img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" width='100px' height='125px'/>
-socials:
-  - title: github
-  - title: linkedin
-  - title: instagram
-
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
----
-
 
 
 name: Harry Potter
