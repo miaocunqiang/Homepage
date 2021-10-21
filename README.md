@@ -42,8 +42,6 @@ People’s Republic of China
 
 For more works, see my [ResearchGate](https://www.researchgate.net/profile/Cunqiang-Miao/publications).
 
-[[2017](https://github.com/miaocunqiang/Homepage/blob/main/2017/README.md)]
-
 ---------------------------------
 
 ### Academic Activities
