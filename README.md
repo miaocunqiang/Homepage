@@ -1,4 +1,4 @@
-### <p align="center">  Cun-Qiang Miao' homepage </p>
+<p align="center">  Cun-Qiang Miao' homepage </p>
 
 --------------------------------------
 
