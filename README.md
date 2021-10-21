@@ -4,9 +4,6 @@ pageClass: home-page
 
 name: Harry Potter
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-
-email: harry@hogwarts.edu
 
 ## News
 
@@ -16,8 +13,3 @@ email: harry@hogwarts.edu
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
-
-
-hjgjg
