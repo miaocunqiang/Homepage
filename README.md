@@ -9,6 +9,7 @@
 
 
 
-
-<img src="https://github.com/miaocunqiang/cqmiao-homepage/blob/main/img-storage/pic_head.jpg" width="10%" height="10%">
+<p align="center">
+<img src="https://github.com/miaocunqiang/cqmiao-homepage/blob/main/img-storage/pic_head.jpg" alt="my pic" width='100px' height='120px'/>
+</p>
 
