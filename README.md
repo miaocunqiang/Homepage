@@ -1,6 +1,6 @@
 
 
-name: Harry Potter
+name: Harry Potter <img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" align="right" width='100px' height='125px'/>
 =======
 
 name: Harry Potter
