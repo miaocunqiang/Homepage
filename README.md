@@ -10,5 +10,5 @@
 
 
 
-<img src="https://github.com/miaocunqiang/cqmiao-homepage/blob/main/img-storage/pic_head.jpg" width="50%" height="50%">
+<img src="https://github.com/miaocunqiang/cqmiao-homepage/blob/main/img-storage/pic_head.jpg" width="10%" height="10%">
 
