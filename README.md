@@ -19,8 +19,6 @@ People’s Republic of China
 - 2019.09–, Lecturer, School of Mathematics and Statistics, Central South University
 - 2017.09–2017.07, Lecturer, College of Mathematics and Systems Science, Shandong University of Science and Technology
 
-
-
 ---------------------------------
      
 ### Ph.D. Thesis
@@ -28,10 +26,12 @@ People’s Republic of China
 - Supervisor: Professor [Zhong-Zhi Bai](http://lsec.cc.ac.cn/~bzz/bzzcn.html)
 - Description: This thesis mainly discuss the convergence property and polynomial acceleration of currently available iterative methods as well as the design of new iterative methods for Hermitian Eigenvalue Problems.
 
-----------------------------------
+---------------------------------
+     
+### Grants
+- 2020.01-2012.12, The National Natural Science Foundation of China, No. 11901361, Host
 
-### Education & Experiences
-
-[[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)] [[Chinese](http://faculty.csu.edu.cn/miaocunqiang/zh_CN/index.htm)]
-
-----------------------------------
+---------------------------------
+     
+### Publications
+- Zhong-Zhi Bai* and Cun-Qiang Miao, On local quadratic convergence of inexact simplified Jacobi-Davidson method for interior eigenpairs of Hermitian eigenproblems, Applied Mathematics Letters, 72(2017), 23-28.
