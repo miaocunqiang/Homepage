@@ -8,12 +8,15 @@ People’s Republic of China
 
 ---------------------------------
      
-## News
+### News
 
 - [Sept 1991] Xiangtan [[PDF](https://www.google.com)]
 - [July 1980] Beijing
 
+----------------------------------
 
-## Education & Experiences
+### Education & Experiences
 
 [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)] [[Chinese](http://faculty.csu.edu.cn/miaocunqiang/zh_CN/index.htm)]
+
+----------------------------------
