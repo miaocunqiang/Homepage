@@ -7,3 +7,5 @@
 
 ## Education & Experiences
 
+![Image text](https://github.com/miaocunqiang/cqmiao-homepage/blob/main/img-storage/pic_head.jpg)
+
