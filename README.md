@@ -1,9 +1,3 @@
----
-pageClass: home-page
-# some data for the components
-
-name: Harry Potter
-
 
 ## News
 
