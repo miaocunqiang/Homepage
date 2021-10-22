@@ -41,9 +41,7 @@ Email: cqmiao@csu.edu.cn
 - Zhong-Zhi Bai* and Cun-Qiang Miao, Computing eigenpairs of Hermitian matrices in perfect Krylov subspaces, Numerical Algorithms, 82(2019), 1251–1277. [[link](https://doi.org/10.1007/s11075-018-00653-y)]
 - Zhong-Zhi Bai* and Cun-Qiang Miao, On local quadratic convergence of inexact simplified Jacobi-Davidson method, Linear Algebra and its Applications, 520(2017), 215-241. [[link](https://www.sciencedirect.com/science/article/pii/S0024379517300460?via%3Dihub)]
 
-For more works, see my [ResearchGate](https://www.researchgate.net/profile/Cunqiang-Miao/publications).
-
-[[2017-2021](https://miaocunqiang.github.io/Publications17-21/)].
+For more works, see [[2017-2021](https://miaocunqiang.github.io/Publications17-21/)].
 
 ---------------------------------
 
