@@ -1,3 +1,27 @@
+
+---
+pageClass: home-page
+# some data for the components
+
+name: Harry Potter
+profile: /profile.jpg
+
+socials:
+ 
+
+cv: https://en.wikipedia.org/wiki/Harry_Potter
+
+bio: Student at Hogwarts School
+
+email: harry (at) hogwarts (dot) edu
+---
+
+<ProfileSection :frontmatter="$page.frontmatter" />
+
+
+
+
+
 <h1><p align="center"> Cun-Qiang Miao's homepage </p></h1>
 
 ### Dr. Miao, Cun-Qiang(苗存强) <img src="https://github.com/miaocunqiang/cqmiao-homepage/raw/main/img-storage/pic_head.jpg" alt="my pic" align="right" width='120px' height='165px'/> 
