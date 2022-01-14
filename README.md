@@ -11,7 +11,8 @@ Email: cqmiao@csu.edu.cn
 ---------------------------------
      
 ### Working Experience
-- 2019.09 – , Lecturer, School of Mathematics and Statistics, Central South University
+- 2021.09 – , Associate Professor, School of Mathematics and Statistics, Central South University
+- 2019.09 – 2021.08, Lecturer, School of Mathematics and Statistics, Central South University
 - 2017.09 – 2019.07, Lecturer, College of Mathematics and Systems Science, Shandong University of Science and Technology
 
 ---------------------------------
