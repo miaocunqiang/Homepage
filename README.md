@@ -26,7 +26,7 @@ Email: cqmiao@csu.edu.cn
 ### Ph.D. Thesis
 - Title: <b> Preconditioning and Iterative Methods for Hermitian Eigenvalue Problems </b>
 - Supervisor: Professor [Zhong-Zhi Bai](http://lsec.cc.ac.cn/~bzz/bzzcn.html)
-- Description: This thesis mainly discuss the convergence property and polynomial acceleration of currently available iterative methods as well as the design of new iterative methods for Hermitian Eigenvalue Problems.
+- Description: This thesis mainly discusses the convergence property and polynomial acceleration of currently available iterative methods as well as the design of new iterative methods for Hermitian Eigenvalue Problems.
 
 ---------------------------------
      
